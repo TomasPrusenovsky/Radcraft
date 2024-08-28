@@ -1,0 +1,3 @@
+[submodule "vendor/Framer"]
+	path = vendor/Framer
+	url = git@github.com:TomasPrusenovsky/Framer.git
